@@ -1,0 +1,17 @@
+This project include 
+1. git init ---> used to initialize data
+2. git status ---> used to check the status of files is they are added or not
+3. git add ----> Adds file to staging area
+4. git log --oneline ---> Shows the SHA key in one line
+5. git log --stat -----> Shows where changes are made
+6. git diff ---> used to check difference a commit and uncommit files
+6. git commit -m "heading color changed" ---> Command for pushing files into directory
+7. git ignore ---> used to ignore files used in repository
+
+
+/*************************** BRANCHING AND MERGING *******************************/
+
+1.git tag -----> add tags to specific commit
+2. git branch -----> allow multiple lines of development
+3. git checkout ----> Switch between different branches and tags
+4. git merge -----> used to combine changes on different brances
